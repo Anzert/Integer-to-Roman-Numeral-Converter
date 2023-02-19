@@ -1,6 +1,6 @@
 # Integer-to-Roman-Numeral-Converter
 
-  * Author: Adrián Fernández Lara
+  * Author: Adrián Fernández
   
   * Purpose: This script was created for a certified exam on freecodecamp.org
   
