@@ -1,5 +1,5 @@
 /**
-  * Author: Adrián Fernández Lara
+  * Author: Adrián Fernández
   * Purpose: This script was created for a certified exam on freecodecamp.org
   * Date: February 19, 2023
   * What does the script do? It takes an integer and converts it to a Roman numeral.
