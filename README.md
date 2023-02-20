@@ -1,4 +1,4 @@
-# Integer-to-Roman-Numeral-Converter :coffee:
+# Roman Numeral Converter [JS]:coffee:
 
   * Author: Adrián Fernández
   
